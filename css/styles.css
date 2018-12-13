@@ -9,3 +9,12 @@ body {
   margin: 0;
   padding: 0;
 }
+
+header {
+  background-color: #00000099;
+  margin: 0px;
+}
+
+h1 {
+  margin: 0px;
+}
