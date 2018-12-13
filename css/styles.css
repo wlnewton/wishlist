@@ -17,11 +17,15 @@ body {
 }
 
 header {
-  background-color: #00000099;
+  background-color: #00330099;
   margin: 0px;
+  width: 100 vw;
 }
 
 h1 {
+  color: white;
   font-family: 'Cinzel Decorative', cursive;
+  font-size: 10vw;
   margin: 0px;
+  text-align: center;
 }
