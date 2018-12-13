@@ -6,9 +6,10 @@ font-family: 'Open Sans', sans-serif;
 
 body {
   background-color: black;
-  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url(../images/pine.jpeg) no-repeat center center fixed;
+  background: url(../images/pine.jpeg) no-repeat center center fixed;
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: darken;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -17,7 +18,7 @@ body {
 }
 
 header {
-  background-color: #00330099;
+  background-color: #003300cc;
   margin: 0px;
   width: 100 vw;
 }
@@ -28,6 +29,7 @@ h1 {
   font-size: 10vw;
   margin: 0px;
   text-align: center;
+  text-shadow: 3px 3px #000000;
 }
 
 h2 {
@@ -35,4 +37,5 @@ h2 {
   font-family: 'Cinzel Decorative', cursive;
   font-size: : 5vw;
   margin: 0;
+  text-shadow: 2px 2px #000000;
 }
