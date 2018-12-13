@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  background: url(../images/pine.jpeg) no-repeat center center fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  margin: 0;
+  padding: 0;
+}
