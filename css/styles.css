@@ -43,3 +43,11 @@ h2 {
 hr {
   color: white;
 }
+
+ul li {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
